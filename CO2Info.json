@@ -1,0 +1,32 @@
+[
+ {
+   "Thing": "Soda can",
+   "CO2": 0.28,
+   "CO2 from usage": 0
+ },
+ {
+   "Thing": "Plastic utensil",
+   "CO2": 0.405,
+   "CO2 from usage": 0
+ },
+ {
+   "Thing": "Laptop",
+   "CO2": 183,
+   "CO2 from usage": 0.92
+ },
+ {
+   "Thing": "Potato chips",
+   "CO2": 0.1375,
+   "CO2 from usage": 0
+ },
+ {
+   "Thing": "Plastic bottle",
+   "CO2": 0.15,
+   "CO2 from usage": 0
+ },
+ {
+   "Thing": "Paper plate",
+   "CO2": 0.08,
+   "CO2 from usage": 0
+ }
+]
