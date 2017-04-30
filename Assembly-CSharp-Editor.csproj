@@ -78,6 +78,7 @@
      <None Include="Assets\StreamingAssets\QCAR\MergeCube.xml" />
      <None Include="Assets\StreamingAssets\QCAR\FlakesBox.xml" />
      <None Include="Assets\StreamingAssets\QCAR\Tarmac.xml" />
+     <None Include="Assets\HttpClient\readme.txt" />
      <None Include="Assets\SamplesResources\ObjectReco\Shaders\ObjectReco_Custom_Outline.shader" />
      <None Include="Assets\Vuforia\Shaders\ClippingMask.shader" />
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
@@ -87,6 +88,9 @@
      <None Include="Assets\Editor\Vuforia\Vuforia\authoringinfo.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
      <None Include="Assets\MergeCubeSDK\Shaders\UnlitUVClip.shader" />
+ <Reference Include="Assembly-UnityScript">
+ <HintPath>/Users/Shared/Unity/NASA project 2/Library/ScriptAssemblies/Assembly-UnityScript.dll</HintPath>
+ </Reference>
  <Reference Include="Assembly-UnityScript-Editor-firstpass">
  <HintPath>/Users/Shared/Unity/NASA project 2/Library/ScriptAssemblies/Assembly-UnityScript-Editor-firstpass.dll</HintPath>
  </Reference>
