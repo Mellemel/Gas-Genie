@@ -46,6 +46,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Cars\Scripts\TakeScreenshot.cs" />
+     <Compile Include="Assets\Cars\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Common\CameraSettings.cs" />
      <Compile Include="Assets\Common\FrameRateSettings.cs" />
      <Compile Include="Assets\Common\InitErrorHandler.cs" />
@@ -163,6 +165,7 @@
      <None Include="Assets\Vuforia\Shaders\BrightTexture.shader" />
      <None Include="Assets\SamplesResources\VuMark\Shaders\VuMark_Custom_OverlayMesh.shader" />
      <None Include="Assets\MergeCubeSDK\_README.txt" />
+     <None Include="Assets\StreamingAssets\QCAR\spaceapps.xml" />
      <None Include="Assets\Editor\Vuforia\Vuforia\authoringinfo.xml" />
      <None Include="Assets\Vuforia\Shaders\Text3D.shader" />
      <None Include="Assets\MergeCubeSDK\Shaders\UnlitUVClip.shader" />
