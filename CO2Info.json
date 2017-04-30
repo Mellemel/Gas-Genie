@@ -28,5 +28,10 @@
    "Thing": "Paper plate",
    "CO2": 0.08,
    "CO2 from usage": 0
- }
+ },
+ {
+   "Thing": "Polyester basket",
+   "CO2": 3.45,
+   "CO2 from usage": 0
+ },
 ]
