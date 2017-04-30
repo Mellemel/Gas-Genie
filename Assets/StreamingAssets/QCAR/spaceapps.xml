@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="946677-coca-cola-logo-online" size="0.070000 0.048738" />
+    <ImageTarget name="coca_cola_nutrition" size="0.050000 0.066667" />
+    <ImageTarget name="coca_cola_logo" size="0.040000 0.038594" />
+    <ImageTarget name="coca_cola_can" size="0.060000 0.045000" />
+    <ImageTarget name="soylent_image" size="0.060000 0.080000" />
+    <ImageTarget name="can_qrc-ConvertImage" size="0.050000 0.049801" />
+    <ImageTarget name="paper_cup_qr-ConvertImage-bigger" size="0.500000 0.500000" />
+    <ImageTarget name="paper_cup_qr-ConvertImage" size="0.025000 0.025000" />
+    <ImageTarget name="laptop_qr-ConvertImage" size="0.025000 0.025000" />
+    <ImageTarget name="soda_can_qr_converted" size="0.025000 0.025000" />
+  </Tracking>
+</QCARConfig>

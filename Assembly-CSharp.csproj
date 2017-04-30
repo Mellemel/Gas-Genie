@@ -46,8 +46,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\Cars\Scripts\TakeScreenshot.cs" />
-     <Compile Include="Assets\Cars\Standard Assets\Character Controllers\Sources\Scripts\MouseLook.cs" />
      <Compile Include="Assets\Common\CameraSettings.cs" />
      <Compile Include="Assets\Common\FrameRateSettings.cs" />
      <Compile Include="Assets\Common\InitErrorHandler.cs" />
